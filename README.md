@@ -16,7 +16,7 @@ O objetivo é refatorar o código seguindo as regras abaixo:
 2. *Não pode manter o switch*
 3. *Deve ter o resultado igual ao atual*
 
-*OBS.:* O resultado atual é um objeto. Ex.: 
+*OBS.:* O resultado atual é um objeto. Ex.: <br> 
 ![](images/test.png)
 
 ## Como testar:
