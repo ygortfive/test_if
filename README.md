@@ -12,9 +12,9 @@ O código é uma função GetUri() que espera um parámetro para retornar um ite
 
 O objetivo é refatorar o código seguindo as regras abaixo:
 
-1. *Não pode utilizar if/else ou if ternário*
-2. *Não pode manter o switch*
-3. *Deve ter o resultado igual ao atual*
+1. __Não pode utilizar if/else ou if ternário__
+2. __Não pode manter o switch__
+3. __Deve ter o resultado igual ao atual__
 
 *OBS.:* O resultado atual é um objeto. Ex.: <br> 
 ![](images/test.png)
